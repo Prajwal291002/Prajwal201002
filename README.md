@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Myself<br>👯 I’m looking to collaborate on DS/DA Projects<br>🤝 I’m looking for help with a Robust Roadmap<br>🌱 I’m currently learning Pyspark<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Myself<br>👯 I’m looking to collaborate on DS/DA Projects<br>🤝 I’m looking for help with a Robust Roadmap<br>🌱 I’m currently learning Pyspark<br>💬 Ask me about<br>⚡ Fun fact : My productivity is directly proportional to the quality of the coffee I had this morning
 
 
 ## 🌐 Socials:
